@@ -1,0 +1,12 @@
+.principalrow{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.consejitos button{
+    background-color: cyan;
+    margin-right: 15px;
+}
+.botoncito{
+    background-color: cyan;
+}
